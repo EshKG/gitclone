@@ -1,3 +1,3 @@
 # Gitclone
 
-Gitclone
+## Необходимо запустить main.py

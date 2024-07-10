@@ -38,7 +38,7 @@ asyncio.run(main())
 counter = 0
 
 
-def sha256(element: str) -> int:
+def sha256(element: str):
     if os.path.isfile(element):
         out = ''
         print('\nNEW')
